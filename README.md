@@ -25,5 +25,5 @@ You can explore the live application here:
 
 ## 🛠️ Clone project
 If you want to run this locally:
-1. Clone the repo: `git clone https://github.com/YOUR_USERNAME/kitchen-compass.git`
+1. Clone the repo: `git clone https://github.com/Syanx24/Kitchen-Compass.git`
 2. Open `index.html` in your browser.
